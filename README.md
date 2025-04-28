@@ -1,7 +1,5 @@
 # CSE-60770
 
-HW 1
-
 data/
         cve_database.db      # SQLite database containing CVE data
         nvdcve-1.1-2022.json # JSON file with CVE data
